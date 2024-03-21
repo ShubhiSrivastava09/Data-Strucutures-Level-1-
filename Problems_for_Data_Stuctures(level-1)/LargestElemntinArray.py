@@ -55,6 +55,6 @@ def main():
     max_Ele=Max_Ele(arr)
     print("Largest number in the given array arrusing method 3 is ",max_Ele)
     return 
-main()
+print(main())
 
 
